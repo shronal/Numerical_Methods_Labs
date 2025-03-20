@@ -15,13 +15,8 @@ This repository contains **Numerical Methods Lab Works** implemented in **Python
 
 ## 🛠 Tech Stack  
 - **Language:** Python / C++  
-- **Tools:** IDE (e.g., PyCharm, VS Code, Code::Blocks)  
-
-## 📂 Files  
-- `bisection.py` / `bisection.cpp` → Bisection Method Implementation  
-- `newton_raphson.py` → Newton-Raphson Method  
-- `gauss_seidel.py` → Gauss-Seidel Method  
-- `README.md` → Documentation  
+- **Tools:** IDE (e.g., Google Colab, VS Code, Code::Blocks)  
+ 
 
 ## 🚀 How to Run  
 1. **Clone the repository**:  
