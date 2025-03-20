@@ -26,7 +26,7 @@ This repository contains **Numerical Methods Lab Works** implemented in **Python
 ## 🚀 How to Run  
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/yourusername/numerical-methods-lab.git
+   git clone https://github.com/shronal/Numerical_Methods_Labs.git
    
 ## 👨‍💻 Author
 🔹 Shronal Duwal
